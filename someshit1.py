@@ -23,7 +23,7 @@ print("[3]Toothpick")
 # If they are a customer print menu and ask for input
 while True:        
     crap = int(input("Please pick a number:"))
-    if crap   
+   
     if crap == 1:
                     print("Thank you for your support, " + name + " your " + ball + " will be up shortly please be patient.")
                     break 
